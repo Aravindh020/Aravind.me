@@ -1,1 +1,26 @@
-# Aravind.me
+<h1 align="center">Hi 👋, I'm Aravind</h1>
+<h3 align="center">Engineering student | Developer - Web, ML, UX | DSC Lead</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
+
+- 🔭 I’m currently working on **MERN**
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **aravindbalajiab2@gmail.com**
+
+- ⚡ Fun fact **Lazy**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh020&layout=compact&hide=html" alt="aravindh020" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindh020&show_icons=true" alt="aravindh020" /></p>
+
+<p align="center">
+<a href="https://twitter.com/https://twitter.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/aravindh020" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aravindh020/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aravindh020/" height="30" width="30" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/aravindh020" height="30" width="30" /></a>
+<a href="https://fb.com/https://www.facebook.com/aravindh.exe3.11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/aravindh.exe3.11/" height="30" width="30" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aravindh.exe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/aravindh.exe/" height="30" width="30" /></a>
+<a href="https://dribbble.com/aravind balaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="aravind balaji" height="30" width="30" /></a>
+<a href="https://www.behance.net/aravind balaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="aravind balaji" height="30" width="30" /></a>
+</p>
