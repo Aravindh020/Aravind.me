@@ -26,4 +26,4 @@
   <img align="justified" src="https://github-readme-stats.vercel.app/api?username=aravindh020&show_icons=true" alt="aravindh020" /></p>
 
 <br>
-<h1> EOF </h1>
+<h6> EOF </h6>
