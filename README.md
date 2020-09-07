@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh020&layout=compact&hide=html" alt="aravindh020" /></p> <p> &nbsp; 
   <img align="justified" src="https://github-readme-stats.vercel.app/api?username=aravindh020&show_icons=true" alt="aravindh020" /></p>
 
+<br>
+<h1> EOF </h1>
