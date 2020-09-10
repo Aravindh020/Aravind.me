@@ -1,4 +1,5 @@
-<div><img src="https://raw.githubusercontent.com/Aravindh020/Aravindh020.github.io/6532038de62b0dc89ed03e8ce4879550f445d186/assets/images/developer1.svg" height = "200" width="2000" alt="Developer"> <h1 align="center">Hi 👋, I'm Aravind</h1>
+<div><img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height = "200" width="2000" alt="Developer"> 
+  <h1 align="center">Hi 👋, I'm Aravind</h1>
 <p align="center">
 <a href="https://twitter.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/aravindh020" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aravindh020/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aravindh020/" height="30" width="30" /></a>
