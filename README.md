@@ -1,4 +1,4 @@
-<div><img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height = "428" width="680" align="center" alt="Developer"> <br>
+<div><img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height = "450" width="700" align="center" alt="Developer"> <br>
   <h1 align="center">Hi 👋, I'm Aravind</h1>
 <p align="center">
 <a href="https://twitter.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/aravindh020" height="30" width="30" /></a>
