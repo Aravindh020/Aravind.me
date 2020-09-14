@@ -1,5 +1,4 @@
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://design4u.in/wp-content/uploads/2020/08/avento.gif" height = "450" width="650" align="center" alt="Developer"> <br>
-  <h1 align="center">Hi 👋, I'm Aravind</h1>
+ <h1 align="center">Hi 👋, I'm Aravind</h1>
 <p align="center">
 <a href="https://twitter.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/aravindh020" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aravindh020/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aravindh020/" height="30" width="30" /></a>
@@ -11,6 +10,7 @@
 <h3 align="center">Engineering student | Developer - Web, ML, UX | DSC Lead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://design4u.in/wp-content/uploads/2020/08/avento.gif" height = "450" width="650" align="center" alt="Developer"> <br>
 
 - 🔭 I’m currently working on **MERN**
 
