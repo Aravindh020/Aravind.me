@@ -12,6 +12,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://design4u.in/wp-content/uploads/2020/08/avento.gif" height = "450" width="650" align="center" alt="Developer"> <br>
 
+
+<hr>
+ 
+ 
 - 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **React**
