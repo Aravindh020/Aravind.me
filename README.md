@@ -15,7 +15,6 @@
 
 <hr>
  
- 
 - 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **React**
