@@ -11,7 +11,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://design4u.in/wp-content/uploads/2020/08/avento.gif" height = "400" width="650" align="center" alt="Developer"> <br>
 <hr>
  
-- 🔭 I’m currently working on **MERN**
+- 💻 I’m currently working on **MERN**
 
 - 📖 I’m currently learning **React**
 
