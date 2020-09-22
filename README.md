@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/aravindh020/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aravindh020/" height="30" width="30" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/aravindh020" height="30" width="30" /></a>
 <a href="https://fb.com/aravindh.exe3.11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/aravindh.exe3.11/" height="30" width="30" /></a>
-<a href="https://instagram.com/aravindh.exe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/aravindh.exe/" height="30" width="30" /></a><a href="https://aravindh020.github.io/" target="blank"<img align="center" alt="Aravind.me" src="https://previews.123rf.com/images/ascom73/ascom731807/ascom73180700002/104070894-link-icon-hyperlink-chain-symbol-vector-illustration-on-white-background-design-for-websites-and-mob.jpg" height="30" width="30" /></a>
+<a href="https://instagram.com/aravindh.exe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/aravindh.exe/" height="30" width="30" /></a>
 </p>
 <h3 align="center">Developer - Web, ML, UX | DSC Lead | Upcoming Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
