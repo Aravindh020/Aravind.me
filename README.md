@@ -15,7 +15,7 @@
 
 - 📖 I’m currently learning **React**
 
-- 👫 Flexible to work with projects based on Web, ML 🤖 and Cloud ☁️ 
+- 👫 Flexible to work with projects based on Web, ML and Cloud ☁️ 
 
 - 📱 How to reach me [Mail](aravindbalajiab2@gmail.com) | [Linkedin](https://www.linkedin.com/in/aravindh020/) | [Instagram](https://www.instagram.com/aravindh.exe/)
 <hr>
