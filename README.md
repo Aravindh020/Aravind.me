@@ -14,7 +14,7 @@
  
 - 💻 I’m currently working on **MERN**
 
-- 📖 I’m currently learning **React**
+- 📖 I’m currently learning **Everything 😐**
 
 - 👫 Flexible to work with projects based on Web, ML and Cloud 
 
