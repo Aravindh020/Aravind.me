@@ -12,7 +12,7 @@
 <hr>
 <p align="left">
  
-- 💻 I’m currently working on **MERN**
+- 💻 I’m currently working on **MERN,DSA**
 
 - 📖 I’m currently learning **Everything 😐**
 
