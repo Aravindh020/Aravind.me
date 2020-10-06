@@ -1,11 +1,8 @@
  <h1 align="center"> Hey <img src="https://github.com/Aravindh020/Aravindh020.github.io/blob/master/assets/images/Hi.gif?raw=true" height="30" width="30" />, I'm Aravind!</h1>
 <p align="center">
-<a href="https://twitter.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/aravindh020" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aravindh020/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aravindh020/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/aravindh.exe/" target="blank" ><img align="center" alt="Aravind | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>
+<a href="https://www.instagram.com/aravindh.exe/" target="blank" ><img align="center" alt="Aravind | LinkedIn" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>
 <a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/aravindh020" height="30" width="30" /></a>
-<a href="https://fb.com/aravindh.exe3.11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/aravindh.exe3.11/" height="30" width="30" /></a>
-<a href="https://instagram.com/aravindh.exe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/aravindh.exe/" height="30" width="30" /></a>
-</p>
 <h3 align="center">Developer - Web, ML, UX | DSC Lead | Incoming Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://design4u.in/wp-content/uploads/2020/08/avento.gif" height = "268" width="451"  alt="Developer"> <br>
