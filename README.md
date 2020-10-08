@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/aravindh020/" target="blank" ><img align="center" alt="Aravind | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
 <a href="https://www.instagram.com/aravindh.exe/" target="blank" ><img align="center" alt="Aravind | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
  <a href="https://twitter.com/aravindh020/" target="blank" ><img align="center" alt="Aravind | Twitter" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
-<a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/aravindh020" height="30" width="30" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="https://www.kaggle.com/aravindh020" height="30" width="30" /></a>
  <a href="https://www.facebook.com/Aravindh.exe3.11/" target="blank" ><img align="center" alt="Aravind | Facebook" width="30px" height="30" src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" style="max-width:100%;"></a>&nbsp;
 <h3 align="center">Developer - Web, ML, UX | DSC Lead | Incoming Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
