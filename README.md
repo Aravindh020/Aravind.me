@@ -11,7 +11,7 @@
 <hr>
 <p align="left">
  
-- 💻 I’m currently working on **MERN**
+- 💻 I’m currently working on **React | CP**
 
 - 📖 I’m currently learning **Everything 😐**
 
