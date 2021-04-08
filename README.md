@@ -17,7 +17,7 @@
 
 - 👫 Flexible to work with projects based on Web, ML and Cloud 
 
-- 📱 How to reach me  &nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Gmail logo" height="16" style="max-width:100%;"> [Mail](mailto:aravindbalajiab2@gmail.com) | 🌐 [Aravind.me](https://aravindh020.github.io/)
+- 📱 How to reach me  &nbsp;&nbsp; 🌐 [Aravind.me](https://aravindh020.github.io/)
 
 - ⚡ Cool, Lazy developer trying to learn and implement things.
 </p>
