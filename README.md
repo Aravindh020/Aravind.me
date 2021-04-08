@@ -17,7 +17,7 @@
 
 - 👫 Flexible to work with projects based on Web, ML and Cloud 
 
-- 📱 How to reach me  &nbsp;&nbsp; 🌐 [Aravind.me](https://aravindh020.github.io/)
+- 📱 How to reach me 🌐 [Aravind.me](https://aravindh020.github.io/)
 
 - ⚡ Cool, Lazy developer trying to learn and implement things.
 </p>
