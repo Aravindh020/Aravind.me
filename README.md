@@ -6,6 +6,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="https://www.kaggle.com/aravindh020" height="30" width="30" /></a>
  <a href="https://www.facebook.com/Aravindh.exe3.11/" target="blank" ><img align="center" alt="Aravind | Facebook" width="30px" height="30" src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" style="max-width:100%;"></a>&nbsp;
 <h3 align="center">Developer - Web, ML, UX | DSC Lead | Incoming Engineer </h3>
+<br />
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://design4u.in/wp-content/uploads/2020/08/avento.gif" height = "268" width="451"  alt="Developer"> <br>
 <hr>
 <p align="left">
