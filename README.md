@@ -4,11 +4,10 @@ Hey, I'm Aravind
 - 💻 I’m currently working on **React | CP**
 - 📖 I’m currently learning **Everything 😐**
 - 👫 Flexible to work with projects based on Web, ML and Cloud 
-- 📱 How to reach me <a href="https://www.linkedin.com/in/aravindh020/" target="blank" ><img align="center" alt="Aravind | LinkedIn" width="5px" height="5" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
-<a href="https://www.instagram.com/aravindh020/" target="blank" ><img align="center" alt="Aravind | Instagram" width="5px" height="5" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
- <a href="https://twitter.com/aravindh020/" target="blank" ><img align="center" alt="Aravind | Twitter" width="5px" height="5" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
-<a href="https://kaggle.com/https://www.kaggle.com/aravindh020" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="https://www.kaggle.com/aravindh020" height="5" width="5" /></a>
- <a href="https://www.facebook.com/Aravindh.exe3.11/" target="blank" ><img align="center" alt="Aravind | Facebook" width="5px" height="5" src="https://image.flaticon.com/icons/png/512/124/124010.png" style="max-width:100%;"></a>&nbsp;
+- 📱 How to reach me <a href="https://www.linkedin.com/in/aravindh020/" target="blank" ><img align="center" alt="Aravind | LinkedIn" width="15px" height="15" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
+<a href="https://www.instagram.com/aravindh020/" target="blank" ><img align="center" alt="Aravind | Instagram" width="15px" height="15" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
+ <a href="https://twitter.com/aravindh020/" target="blank" ><img align="center" alt="Aravind | Twitter" width="15px" height="15" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Twitter.svg" style="max-width:100%;"></a>&nbsp;
+
 - ⚡ Cool, Lazy developer trying to learn and implement things.
 </p>
 <hr>
